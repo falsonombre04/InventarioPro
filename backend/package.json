@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "InventarioPro es un sistema de inventario, que permitira a los pequeños y medianos negocios de venta y servicio de productos de mercado, a llevar una buena gestion y control de sus productos, permitiendo realizar registro de sus productos, validar la existencia en sus inventarios, guardar la cantidad real del stock, entre otras funciones que permitiran un mejor orden en el negocios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "inventario",
+    "sistema",
+    "de",
+    "inventario",
+    "sistema",
+    "web"
+  ],
+  "author": "falsoNombre04",
+  "license": "ISC"
+}
